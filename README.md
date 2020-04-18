@@ -1,2 +1,2 @@
-# mccommandwiki.github.io
+# mccommandwiki
 a net
